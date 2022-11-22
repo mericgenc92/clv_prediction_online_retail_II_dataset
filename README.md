@@ -1,2 +1,1 @@
-# clv_prediction_online_retail_II_dataset
- 
+# CLV Prediction - Online Retail II Dataseti
